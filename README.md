@@ -1,4 +1,4 @@
-## Windchime Scripts
+## Scripts
 
 These scripts are made to train musically constrained accoustic reconstruction models 
 
